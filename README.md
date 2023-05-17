@@ -5,8 +5,12 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/aliyun-tools) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/aliyun-tools)
 
-Misc tools for "devops" in Aliyun (Alibaba Cloud)
+Misc tools for "devops" in Aliyun (Alibaba Cloud).
 
+- [aliyun-tools](#aliyun-tools)
+    - [check-function-acceleration-status.py](#check-function-acceleration-statuspy)
+
+<a name="#check-function-acceleration-status"></a>
 ### check-function-acceleration-status.py
 
 Checks the status of the Image Acceleration process of a Function Compute container, after you updated the function with a new container (from the Personal Edition of the ECS, for instance).
