@@ -14,8 +14,8 @@ It presents an indicator while the image is preparing.
 
 It takes these parameters:
 
-* **-f <function>** the FC function name. Required.
-* **-s <service>** the FC service name. Required.
-* **-t <seconds>** the time in seconds between checks. Optional. Default: 2 seconds.
+* **-f \<function\>** the FC function name. Required.
+* **-s \<service\>** the FC service name. Required.
+* **-t \<seconds\>** the time in seconds between checks. Optional. Default: 2 seconds.
 
 See the source code for dependencies.
