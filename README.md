@@ -7,7 +7,13 @@
 
 Misc tools for "devops" in Aliyun (Alibaba Cloud)
 
-### check-function-acceleration-status.py
+#### check-function-acceleration-status.py
 
 Checks the status of the Image Acceleration process of a Function Compute container, after you updated the function with a new container (from the Personal Edition of the ECS, for instance).
-It presents an indicator while the image is preparing.
+It presents an indicator while the image is preparing. 
+
+It takes these parameters:
+
+* **-f <function>** the FC function name. Required.
+* **-s <service>** the FC service name. Required.
+* **-t <seconds>** the time in seconds between checks. Optional. Default: 2 seconds.
