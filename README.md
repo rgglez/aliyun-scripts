@@ -18,4 +18,14 @@ It takes these parameters:
 * **-s \<service\>** the FC service name. Required.
 * **-t \<seconds\>** the time in seconds between checks. Optional. Default: 2 seconds.
 
+Examples:
+
+```bash
+python3 check-function-acceleration-status.py -s MyCoolService -f wipe-data
+```
+
+```bash
+python3 check-function-acceleration-status.py -s MyCoolService -f restore-backup -t 5
+```
+
 See the source code for dependencies.
