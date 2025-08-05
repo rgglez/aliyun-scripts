@@ -1,13 +1,13 @@
-# aliyun-tools
+# aliyun-scripts
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![GitHub all releases](https://img.shields.io/github/downloads/rgglez/aliyun-tools/total) 
-![GitHub issues](https://img.shields.io/github/issues/rgglez/aliyun-tools) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/aliyun-tools)
+![GitHub all releases](https://img.shields.io/github/downloads/rgglez/aliyun-scripts/total) 
+![GitHub issues](https://img.shields.io/github/issues/rgglez/aliyun-scripts) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/aliyun-scripts)
 
 Misc tools for "devops" in Aliyun (Alibaba Cloud).
 
-- [aliyun-tools](#aliyun-tools)
+- [aliyun-scripts](#aliyun-scripts)
     - [check-function-acceleration-status.py](#check-function-acceleration-statuspy)
 
 <a name="#check-function-acceleration-status"></a>
@@ -33,3 +33,9 @@ python3 check-function-acceleration-status.py -s MyCoolService -f restore-backup
 ```
 
 See the source code for dependencies.
+
+# License
+
+Copyright (c) 2023 Rodolfo González González
+
+Released under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). Read the [LICENSE](LICENSE) file.
