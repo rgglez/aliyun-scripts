@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/aliyun-scripts/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/aliyun-scripts) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/aliyun-scripts)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/aliyun-scripts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/aliyun-scripts?style=social)
 
 Misc tools for "devops" in Aliyun (Alibaba Cloud).
 
