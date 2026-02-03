@@ -38,6 +38,6 @@ See the source code for dependencies.
 
 # License
 
-Copyright (c) 2023 Rodolfo González González
+Copyright (c) 2026 Rodolfo González González
 
 Released under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). Read the [LICENSE](LICENSE) file.
